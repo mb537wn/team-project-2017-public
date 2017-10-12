@@ -1,1 +1,1 @@
-#Git repo for Zive 2017 project- face recognition with drones
+Welcome to the Git repo for Zive IT 2017 project - face recognition with drones
